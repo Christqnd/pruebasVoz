@@ -1,0 +1,20 @@
+c:\users\montoya\documents\visual studio 2012\Projects\reconocedor de voz\bin\Debug\reconocedor de voz.exe.config
+C:\Users\chris\Desktop\Pruebas COBUS\Pruebas Voz a texto\c#\reconocedor de voz\reconocedor de voz\bin\Debug\reconocedor de voz.exe.config
+C:\Users\chris\Desktop\Pruebas COBUS\Pruebas Voz a texto\c#\reconocedor de voz\reconocedor de voz\bin\Debug\reconocedor de voz.exe
+C:\Users\chris\Desktop\Pruebas COBUS\Pruebas Voz a texto\c#\reconocedor de voz\reconocedor de voz\bin\Debug\reconocedor de voz.pdb
+C:\Users\chris\Desktop\Pruebas COBUS\Pruebas Voz a texto\c#\reconocedor de voz\reconocedor de voz\obj\Debug\reconocedor de voz.csprojResolveAssemblyReference.cache
+C:\Users\chris\Desktop\Pruebas COBUS\Pruebas Voz a texto\c#\reconocedor de voz\reconocedor de voz\obj\Debug\reconocedor_de_voz.Form1.resources
+C:\Users\chris\Desktop\Pruebas COBUS\Pruebas Voz a texto\c#\reconocedor de voz\reconocedor de voz\obj\Debug\reconocedor_de_voz.Form2.resources
+C:\Users\chris\Desktop\Pruebas COBUS\Pruebas Voz a texto\c#\reconocedor de voz\reconocedor de voz\obj\Debug\reconocedor_de_voz.Properties.Resources.resources
+C:\Users\chris\Desktop\Pruebas COBUS\Pruebas Voz a texto\c#\reconocedor de voz\reconocedor de voz\obj\Debug\reconocedor de voz.csproj.GenerateResource.Cache
+C:\Users\chris\Desktop\Pruebas COBUS\Pruebas Voz a texto\c#\reconocedor de voz\reconocedor de voz\obj\Debug\reconocedor de voz.exe
+C:\Users\chris\Desktop\Pruebas COBUS\Pruebas Voz a texto\c#\reconocedor de voz\reconocedor de voz\obj\Debug\reconocedor de voz.pdb
+E:\COBUS_TODO\Pruebas COBUS\Respositorio_Pruebas_Cobus\reconocedor de voz\bin\Debug\reconocedor de voz.exe.config
+E:\COBUS_TODO\Pruebas COBUS\Respositorio_Pruebas_Cobus\reconocedor de voz\obj\Debug\reconocedor de voz.exe
+E:\COBUS_TODO\Pruebas COBUS\Respositorio_Pruebas_Cobus\reconocedor de voz\obj\Debug\reconocedor de voz.pdb
+E:\COBUS_TODO\Pruebas COBUS\Repositorio_Pruebas_Cobus\reconocedor de voz\bin\Debug\reconocedor de voz.exe.config
+E:\COBUS_TODO\Pruebas COBUS\Repositorio_Pruebas_Cobus\reconocedor de voz\obj\Debug\reconocedor de voz.exe
+E:\COBUS_TODO\Pruebas COBUS\Repositorio_Pruebas_Cobus\reconocedor de voz\obj\Debug\reconocedor de voz.pdb
+E:\COBUS_TODO\Pruebas COBUS\Repositorio_Local_Git\LocalRepoCris\reconocedor de voz\bin\Debug\reconocedor de voz.exe.config
+E:\COBUS_TODO\Pruebas COBUS\Repositorio_Local_Git\LocalRepoCris\reconocedor de voz\obj\Debug\reconocedor de voz.exe
+E:\COBUS_TODO\Pruebas COBUS\Repositorio_Local_Git\LocalRepoCris\reconocedor de voz\obj\Debug\reconocedor de voz.pdb
